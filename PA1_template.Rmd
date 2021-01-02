@@ -4,6 +4,11 @@ author: "Kiet Huynh"
 date: "01/01/2021"
 output: html_document
 ---
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  fig.path = "README_figs/README-"
+)
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
