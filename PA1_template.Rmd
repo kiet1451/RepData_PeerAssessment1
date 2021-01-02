@@ -2,7 +2,7 @@
 title: "The personal movement using activity monitoring devices dataset"
 author: "Kiet Huynh"
 date: "01/01/2021"
-output: html_document
+output: rmarkdown::github_document
 ---
 ```{r, echo = FALSE}
 knitr::opts_chunk$set(
